@@ -8,6 +8,9 @@ export default function Home() {
         <Button variant="destructive">
           Click Me
         </Button>
+        <Button variant="secondary">
+          Click Me
+        </Button>
       </main>
     </div>
   );
